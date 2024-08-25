@@ -4,21 +4,14 @@
 
 This blog application includes both a list view and a detail view for blog posts. The application is built using modern technologies and follows best industry practices.
 
-## Video Demo 
-
-video : [https://www.loom.com/share/67d7843632954b0bae4765700777e1ce?sid=596aaabd-a8ee-48c1-8f1a-d6714b942068]
-
 ## Technologies Used
 
 - **Frontend**: React (latest version), Redux Toolkit, Tailwind CSS
 - **Backend**: Node.js with Express
 - **API Handling**: Redux Query (RTK Query)
 - **Database**: MongoDB
-- **Deployment**: [netlify, render]
+- **Deployment**: [netlify, render, vercel]
 
-## Live Demo
-
-You can view the live demo of the application at: [https://zuai-frontend.netlify.app/]
 
 ## Key Features
 
@@ -31,7 +24,7 @@ You can view the live demo of the application at: [https://zuai-frontend.netlify
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/developerashish02/zuai-backend.git
+   git clone https://github.com/harikrishnaalvala/ZuAi-backend.git
    ```
 
 2. **Navigate to the Project Directory**
