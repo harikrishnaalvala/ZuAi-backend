@@ -30,7 +30,7 @@ This blog application includes both a list view and a detail view for blog posts
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd zuai-backend
+   cd zuai-backend-main
    ```
 
 3. **Install Dependencies**
